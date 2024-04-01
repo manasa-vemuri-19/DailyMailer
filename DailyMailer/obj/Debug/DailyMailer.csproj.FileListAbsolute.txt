@@ -1,0 +1,85 @@
+D:\Temp Work\daily mailer\BECodeProd\bin\BECodeProd.dll.config
+D:\Temp Work\daily mailer\BECodeProd\bin\BECodeProd.dll
+D:\Temp Work\daily mailer\BECodeProd\bin\BECodeProd.pdb
+D:\Temp Work\daily mailer\BECodeProd\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+D:\Temp Work\daily mailer\BECodeProd\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+D:\Temp Work\daily mailer\BECodeProd\obj\Debug\DailyMailer.csproj.CopyComplete
+D:\Temp Work\daily mailer\BECodeProd\obj\Debug\BECodeProd.dll
+D:\Temp Work\daily mailer\BECodeProd\obj\Debug\BECodeProd.pdb
+D:\Temp Work\daily mailer\DailyMailer\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+D:\Temp Work\daily mailer\DailyMailer\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+D:\Temp Work\daily mailer\DailyMailer\bin\Dailymailer.dll.config
+D:\Temp Work\daily mailer\DailyMailer\bin\Dailymailer.dll
+D:\Temp Work\daily mailer\DailyMailer\bin\Dailymailer.pdb
+D:\Temp Work\daily mailer\DailyMailer\obj\Debug\Dailymailer.dll
+D:\Temp Work\daily mailer\DailyMailer\obj\Debug\Dailymailer.pdb
+D:\Load_Application\Backup_Original daily mailer\DailyMailer\bin\Dailymailer.dll.config
+D:\Load_Application\Backup_Original daily mailer\DailyMailer\bin\Dailymailer.dll
+D:\Load_Application\Backup_Original daily mailer\DailyMailer\bin\Dailymailer.pdb
+D:\Load_Application\Backup_Original daily mailer\DailyMailer\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+D:\Load_Application\Backup_Original daily mailer\DailyMailer\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+D:\Load_Application\Backup_Original daily mailer\DailyMailer\obj\Debug\Dailymailer.dll
+D:\Load_Application\Backup_Original daily mailer\DailyMailer\obj\Debug\Dailymailer.pdb
+D:\Load_Application\DailyMailer\DailyMailer\bin\Dailymailer.dll.config
+D:\Load_Application\DailyMailer\DailyMailer\bin\Dailymailer.dll
+D:\Load_Application\DailyMailer\DailyMailer\bin\Dailymailer.pdb
+D:\Load_Application\DailyMailer\DailyMailer\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+D:\Load_Application\DailyMailer\DailyMailer\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+D:\Load_Application\DailyMailer\DailyMailer\obj\Debug\Dailymailer.dll
+D:\Load_Application\DailyMailer\DailyMailer\obj\Debug\Dailymailer.pdb
+C:\Users\santosh.sathujoda\Downloads\New folder\DailyMailer\DailyMailer\bin\Dailymailer.dll.config
+C:\Users\santosh.sathujoda\Downloads\New folder\DailyMailer\DailyMailer\bin\Dailymailer.dll
+C:\Users\santosh.sathujoda\Downloads\New folder\DailyMailer\DailyMailer\bin\Dailymailer.pdb
+C:\Users\santosh.sathujoda\Downloads\New folder\DailyMailer\DailyMailer\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+C:\Users\santosh.sathujoda\Downloads\New folder\DailyMailer\DailyMailer\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+C:\Users\santosh.sathujoda\Downloads\New folder\DailyMailer\DailyMailer\obj\Debug\Dailymailer.dll
+C:\Users\santosh.sathujoda\Downloads\New folder\DailyMailer\DailyMailer\obj\Debug\Dailymailer.pdb
+D:\DailyMailer\DailyMailer\bin\Dailymailer.dll.config
+D:\DailyMailer\DailyMailer\bin\Dailymailer.dll
+D:\DailyMailer\DailyMailer\bin\Dailymailer.pdb
+D:\DailyMailer\DailyMailer\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+D:\DailyMailer\DailyMailer\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+D:\DailyMailer\DailyMailer\obj\Debug\Dailymailer.dll
+D:\DailyMailer\DailyMailer\obj\Debug\Dailymailer.pdb
+D:\DailyMailer_Latest\DailyMailer\bin\Dailymailer.dll.config
+D:\DailyMailer_Latest\DailyMailer\bin\Dailymailer.dll
+D:\DailyMailer_Latest\DailyMailer\bin\Dailymailer.pdb
+D:\DailyMailer_Latest\DailyMailer\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+D:\DailyMailer_Latest\DailyMailer\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+D:\DailyMailer_Latest\DailyMailer\obj\Debug\Dailymailer.dll
+D:\DailyMailer_Latest\DailyMailer\obj\Debug\Dailymailer.pdb
+D:\Temp Work\Prod Daily mailer\dailymailer\dailymailer\DailyMailer\bin\Dailymailer.dll.config
+D:\Temp Work\Prod Daily mailer\dailymailer\dailymailer\DailyMailer\bin\Dailymailer.dll
+D:\Temp Work\Prod Daily mailer\dailymailer\dailymailer\DailyMailer\bin\Dailymailer.pdb
+D:\Temp Work\Prod Daily mailer\dailymailer\dailymailer\DailyMailer\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+D:\Temp Work\Prod Daily mailer\dailymailer\dailymailer\DailyMailer\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+D:\Temp Work\Prod Daily mailer\dailymailer\dailymailer\DailyMailer\obj\Debug\Dailymailer.dll
+D:\Temp Work\Prod Daily mailer\dailymailer\dailymailer\DailyMailer\obj\Debug\Dailymailer.pdb
+D:\DailyMailer_Latest_RTBR_CALL_OUT\DailyMailer\bin\Dailymailer.dll.config
+D:\DailyMailer_Latest_RTBR_CALL_OUT\DailyMailer\bin\Dailymailer.dll
+D:\DailyMailer_Latest_RTBR_CALL_OUT\DailyMailer\bin\Dailymailer.pdb
+D:\DailyMailer_Latest_RTBR_CALL_OUT\DailyMailer\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+D:\DailyMailer_Latest_RTBR_CALL_OUT\DailyMailer\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+D:\DailyMailer_Latest_RTBR_CALL_OUT\DailyMailer\obj\Debug\Dailymailer.dll
+D:\DailyMailer_Latest_RTBR_CALL_OUT\DailyMailer\obj\Debug\Dailymailer.pdb
+D:\Files_\DailyMailer_Latest\DailyMailer\bin\Dailymailer.dll.config
+D:\Files_\DailyMailer_Latest\DailyMailer\bin\Dailymailer.dll
+D:\Files_\DailyMailer_Latest\DailyMailer\bin\Dailymailer.pdb
+D:\Files_\DailyMailer_Latest\DailyMailer\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+D:\Files_\DailyMailer_Latest\DailyMailer\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+D:\Files_\DailyMailer_Latest\DailyMailer\obj\Debug\Dailymailer.dll
+D:\Files_\DailyMailer_Latest\DailyMailer\obj\Debug\Dailymailer.pdb
+D:\Load_Application\DailyMailer_Latest\DailyMailer\bin\Dailymailer.dll.config
+D:\Load_Application\DailyMailer_Latest\DailyMailer\bin\Dailymailer.dll
+D:\Load_Application\DailyMailer_Latest\DailyMailer\bin\Dailymailer.pdb
+D:\Load_Application\DailyMailer_Latest\DailyMailer\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+D:\Load_Application\DailyMailer_Latest\DailyMailer\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+D:\Load_Application\DailyMailer_Latest\DailyMailer\obj\Debug\Dailymailer.dll
+D:\Load_Application\DailyMailer_Latest\DailyMailer\obj\Debug\Dailymailer.pdb
+D:\FILES\DailyMailer_Latest\DailyMailer\bin\Dailymailer.dll.config
+D:\FILES\DailyMailer_Latest\DailyMailer\bin\Dailymailer.dll
+D:\FILES\DailyMailer_Latest\DailyMailer\bin\Dailymailer.pdb
+D:\FILES\DailyMailer_Latest\DailyMailer\obj\Debug\DailyMailer.csproj.AssemblyReference.cache
+D:\FILES\DailyMailer_Latest\DailyMailer\obj\Debug\DailyMailer.csproj.CoreCompileInputs.cache
+D:\FILES\DailyMailer_Latest\DailyMailer\obj\Debug\Dailymailer.dll
+D:\FILES\DailyMailer_Latest\DailyMailer\obj\Debug\Dailymailer.pdb
